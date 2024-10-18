@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+#div1 {
+  background-color: #eef4ed;
+  margin-top: 500;
+
+  a {
+    margin-left: 250px;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: navy;
+  }
+
+  #a1 {
+    margin-left: 400px;
+  }
+}
+
+#div2 {
+  background-color: #eef4ed;
+  padding: 30px;
+  display: flex;
+
+  #div4 {
+    margin-right: 260px;
+    border-radius: 50%;
+  }
+
+  h3 {
+    font-weight: bold;
+    font-size: 52px;
+    text-align: right;
+    display: inline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(8, 25, 25);
+
+  }
+
+  p {
+    color: rgb(5, 10, 10);
+    display: inline;
+    text-align: right;
+    font-size: 25px;
+
+  }
+}
+
+#contacts {
+  display: flex;
+
+  #insta {
+    background-color: #8da9c4;
+    padding: 50px;
+
+  }
+
+  #linked {
+    background-color: #0b2545;
+    padding: 50px;
+
+  }
+
+  #whats {
+    background-color: #13315c;
+    padding: 50px;
+
+  }
+
+  #mail {
+    background-color: #134074;
+    padding: 50px;
+
+
+  }
+
+  #face {
+    background-color: #6786a2;
+    padding: 50px;
+
+  }
+}
